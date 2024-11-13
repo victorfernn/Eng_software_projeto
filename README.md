@@ -6,5 +6,5 @@
   <li>Marcos Antonio Freitas Souza (202208699464)</li>
   <li>Bruno Micael Santos Sampaio (202308426052)</li>
   <li>Lismar Brasileiro dos Santos (202303591101)</li>
-  <li>William Neves dos Santos Cavalcanti </li>
+  <li>William Neves dos Santos Cavalcanti (202209073411)</li>
 </ul>
